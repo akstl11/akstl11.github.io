@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Allan Khariton
-description: "I'm an Assistant Project Manager and aspiring Data professional.  My construction portfolio highlights projects I have worked on, with an emphasis on technical and professional growth. You can visit my Github & LinkedIn pages (or download my Resume) by using the links below, and view my data-related projects at akstl1.github.io <a href="www.facebook.com">FB</a>."
+description: "I'm an Assistant Project Manager and aspiring Data professional.  My construction portfolio highlights projects I have worked on, with an emphasis on technical and professional growth. You can visit my Github & LinkedIn pages (or download my Resume) by using the links below, and view my data-related projects at akstl1.github.io <p><a href="www.facebook.com">FB</a></p>."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
