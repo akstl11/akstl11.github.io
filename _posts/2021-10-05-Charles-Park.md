@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charles Park
-image: "/posts/vehicle_emissions.jpg"
+image: "/posts/Park2.jpg"
 tags: [Residential, Interior Finishes]
 ---
 
