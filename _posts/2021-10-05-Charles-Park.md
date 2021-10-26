@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charles Park
-image: "/posts/Park2.jpg"
+image: "/posts/cp.jpg"
 tags: [Residential, Interior Finishes]
 ---
 
