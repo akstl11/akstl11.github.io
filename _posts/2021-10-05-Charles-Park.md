@@ -13,6 +13,8 @@ Project: Charles Park Core And Shell, Phase I
 
 Duration: August 2021 - Present
 
+### Scope Of Work
+
 Renovation of existing 400,000 SF, 6 floor office building to prepare for new life science tenants (Phase II). Scope of work includes elevator modernization, MEPFP upgrades to support lab work, new interior core and shell finishes throughout the building, and significant steel upgrades to support new mechanical penthouse and roof equipment.
 
 ---
