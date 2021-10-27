@@ -2,33 +2,26 @@
 layout: post
 title: Charles Park
 image: "/posts/cp2.jpg"
-tags: [Residential, Interior Finishes]
+tags: [Commercial, Life Science, Preconstruction, Change Management, Owner Reporting]
 ---
 
 ## Project Description
 
-Owner: Brookfield Properties
+Owner: The Davis Companies / Alexandria Real Estate Equities
 
-Project: Origin Ballston, Arlington, VA
+Project: Charles Park Core And Shell, Phase I
 
-455,000 SF new mixed-use residential tower with 4 levels of below-grade parking, 2 levels
-of retail space, and 406 residential units. Included first and second-level connections to
-existing mall retail spaces and walkways. In addition, scope included upgrade of adjacent
-sitework including a new bus stop, garage entrance, and traffic signalization. Amenity
-scope included: gym, work pods, TV lounge areas, restrooms, exterior seating and grill areas,
-rooftop pool, dog-run area.
+Duration: August 2021 - Present
+
+Renovation of existing 400,000 SF, 6 floor office building to prepare for new life science tenants (Phase II). Scope of work includes elevator modernization, MEPFP upgrades to support lab work, new interior core and shell finishes throughout the building, and significant steel upgrades to support new mechanical penthouse and roof equipment.
 
 ---
 
-## Interior Finishes Manager
-- Managed interior finishes work including paint, millwork, countertops, flooring, appliances, and fixtures
-- Led semi-weekly meetings with key project stakeholders to ensure on-time completion of work totaling more than $100,000,000.
-- Developed and analyzed interior finishes data for 406 apartments, ensuring resources were allocated efficiently and avoiding over $100,000 in fees
-- Generated and resolved internal punchlist; managed completion of Architect punch list so units could be turned over and used on time
-
-
----
-
-## Office Engineer Assistant
-- Assisted in creating of trade partner requisition package each month, allowing team to bill the owner on time
-- Successfully briefed project status to senior executives, resulting in continued positive client rapport and quick issue resolution
+## Assistant Project Manager
+- Co-managing NFPA 241 documentation and protocols, ensuring project complies with all City regulations and work can continue without delays
+- Leading weekly meetings with 15+ key project stakeholders, allowing team to align on vision and achieve on-time issue resolution and status updates 
+- Writing scope of work exhibits for seven interior finish trades, helping team buy the project out hunderds of thousands of dollars worth of work on schedule
+- Managing tracking of field T&M slips and trade partner CORs, ensuring the risk of performing out-of-scope work without pay is mitigated
+- Assisting in creation of substantial monthly owner report, facilitating monthly on-time payments to organization worth millions of dollars each month
+- Serving as lead liaison between GC and Architect team leading to efficient document transfers, scope clarifications, and issue resolutions before work delays occur
+- Documenting progress on site via photos and videos, mitigating risk/uncertainty of determining whether previous activities occurred as planned and specified
