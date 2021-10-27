@@ -7,7 +7,7 @@ tags: [Commercial, Life Science, Preconstruction, Change Management, Owner Repor
 
 ## Project Description
 
-Owner: The Davis Companies / Alexandria Real Estate Equities
+Client: The Davis Companies / Alexandria Real Estate Equities
 
 Project: Charles Park Core And Shell, Phase I
 
