@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Allan Khariton
-description: "I'm an Assistant Project Manager and aspiring Data professional.  My construction portfolio highlights projects I have worked on, with an emphasis on technical and professional growth. You can view the summaries of my past and current projects in the posts on this page, visit my Github & LinkedIn pages (or download my Resume) by using the links below, and view my data-related projects at akstl1.github.io"
+description: "I'm a Data Analyst II, and advancing in my career as a data professional.  My construction portfolio highlights projects I have worked on as a Construction Manager, with an emphasis on technical and professional growth. You can view the summaries of my past and current projects in the posts on this page, visit my Github & LinkedIn pages (or download my Resume) by using the links below, and view my data-related projects at akstl1.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Construction Management <span style="color:#f58506"> Portfolio </span>
 location: "Boston, USA"
-resume_url: /docs/A_Khariton_Resume_2022.04.14_.pdf
+resume_url: /docs/A_Khariton_Resume_2022.08.22_.pdf
 avatar_image: /img/Head Shot.jpg
 
 #-------------------------------
