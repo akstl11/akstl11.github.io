@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Charles Park
+title: Charles Park Life Science Conversion
 image: "/posts/cp2.jpg"
 tags: [Commercial, Life Science, Preconstruction, Change Management, Owner Reporting]
 ---
